@@ -4,7 +4,7 @@
   
 # Website Preview
 
-![preview](https://github.com/kryszczynnnnn/hosc/assets/146872833/2518c1f5-47c2-495c-afca-6f364380649c)
+<a href="https://github.com/kryszczynnnnn/hosc/blob/main/preview.png">![preview](https://github.com/kryszczynnnnn/hosc/assets/146872833/2518c1f5-47c2-495c-afca-6f364380649c)</a>
 
 <b>Authors</b><br>
 ```Design ->``` Serhii Skyba <a href="https://github.com/SerhiiSkyba">(@SerhiiSkyba)</a><br>
