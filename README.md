@@ -1,4 +1,4 @@
-# HOSC [ENGLISH VERSION]  
+# HOSC 
 
   HOSC is a horror game.
   
